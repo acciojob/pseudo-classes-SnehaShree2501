@@ -1,1 +1,32 @@
 /*  your css code here. If applicable */
+.textRed{
+    color: red;
+}
+li:nth-child(2n)
+{
+    background-color: slategray;
+}
+:first-child{
+    background-color: white;
+}
+:last-child{
+    background-color: white;
+}
+:nth-child(3)
+{
+    background-color: pink;
+}
+:root{
+    background-color: skyblue;
+}
+.listCSS{
+   
+        width: 300px;
+        
+        padding: 50px;
+        margin: 20px;     
+}
+.colourBlackBg{
+    background-color: black;
+    color: white;
+}
